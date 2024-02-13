@@ -1,0 +1,46 @@
+
+    .weather-container{
+        background-color:pink;
+        width: 45vw;
+        height: 50vh;
+        padding: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    
+    body{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-size: cover;
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdhkcC1E07gouuRDJVu2oE-dVEJu9URHAww&usqp=CAU" );
+    }
+    .heading-1{
+
+        font-size:60px;
+        font-family:'Times New Roman', Times, serif;
+        margin-bottom:28px;
+    }
+    .input-1{
+        width:400px;
+        padding:10px;
+        height:60px;
+        border-radius: 10px;
+        border:2px solid black;
+    }
+    .btn-1{
+        padding:10px;
+        width:150px;
+        border-radius:8px;
+        background-color:yellowgreen;
+        font-family:'Times New Roman', Times, serif;
+
+    }
+    
+    
